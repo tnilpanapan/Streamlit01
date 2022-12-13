@@ -8,7 +8,7 @@ import os
 st.title("EZ MMR")
 st.write("## U NEED TO BE like a Shark!")
 st.write("**Let Me mid BOBO**")
-df_dota = pd.read_csv("C://Users/Thirawut/Project/Streamlit01/data/hero_stats.csv")
+df_dota = pd.read_csv("./data/hero_stats.csv")
 
 
 ## LOAD DATA
